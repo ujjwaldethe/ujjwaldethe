@@ -51,4 +51,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaldethe&" alt="ujjwaldethe" /></p>
 <div align="center">
 ![snake gif](https://github.com/ujjwaldethe/ujjwaldethe/blob/output/github-snake-dark.svg)
-</di>
+</div>
