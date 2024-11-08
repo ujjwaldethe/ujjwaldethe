@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399)
 <h1 align="center">Hi 👋, I'm Ujjwal Dethe</h1>
 <h3 align="center">A passionate java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
