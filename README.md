@@ -49,6 +49,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en" alt="ujjwaldethe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaldethe&" alt="ujjwaldethe" /></p>
+
 <div align="center">
-![snake gif](https://github.com/ujjwaldethe/ujjwaldethe/blob/output/github-snake-dark.svg)
+    <img src="https://github.com/ujjwaldethe/ujjwaldethe/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
+
