@@ -48,9 +48,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width: 70%; height: 100px; object-fit: cover;">
 </p>
 
-<p style="background-color: #333; padding: 10px; border-radius: 10px; margin-bottom: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 70%; height: 100px; object-fit: cover;">
-</p>
+
 
 <p style="background-color: #333; padding: 10px; border-radius: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaldethe&theme=dark" alt="GitHub Streak Stats" style="width: 70%; height: 100px; object-fit: cover;">
