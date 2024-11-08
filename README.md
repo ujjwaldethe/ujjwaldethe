@@ -3,7 +3,10 @@
 <h3 align="center">A passionate java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwaldethe&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwaldethe" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=ujjwaldethe&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwaldethe" />
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/ujjwal_dethe_" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwal_dethe_?logo=twitter&style=for-the-badge" alt="ujjwal_dethe_" /></a> </p>
 
