@@ -46,7 +46,8 @@
 
 
 <p style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaldethe" alt="ujjwaldethe" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ujjwaldethe&theme=dark" alt="ujjwaldethe" />
+    
 </p>
 
 <p style="text-align: center;">
