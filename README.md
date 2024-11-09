@@ -48,9 +48,7 @@
 <p style="text-align: center;">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaldethe" alt="ujjwaldethe" />
 </p>
-<p style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en" alt="ujjwaldethe" />
-</p>
+
 <p style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact" alt="ujjwaldethe" />
 </p>
