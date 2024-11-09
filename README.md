@@ -46,16 +46,17 @@
 
 
 <p style="text-align: center;">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ujjwal&theme=dark&border_radius=0" alt="GitHub Streak" /></a>
+ 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaldethe" alt="ujjwaldethe" />
     
 </p>
 
 <p style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en&theme=dark" alt="ujjwaldethe" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en" alt="ujjwaldethe" />
 </p>
 
 <p style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact&theme=dark" alt="ujjwaldethe" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact" alt="ujjwaldethe" />
 </p>
 
 
