@@ -48,9 +48,10 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaldethe" alt="ujjwaldethe" />
+   <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en" alt="ujjwaldethe" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact" alt="ujjwaldethe" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact" alt="ujjwaldethe" />
 </div>
 <div align="center">
     <img src="https://github.com/ujjwaldethe/ujjwaldethe/blob/output/github-snake-dark.svg" alt="snake gif">
