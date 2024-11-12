@@ -54,7 +54,7 @@ cod![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c06809
   <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact&theme=dark" alt="ujjwaldethe" />
 </div>
 <br>
-<br>
+
 <div align="center">
     <img src="https://github.com/ujjwaldethe/ujjwaldethe/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
