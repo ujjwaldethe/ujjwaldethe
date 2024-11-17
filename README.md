@@ -24,7 +24,7 @@ cod![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c06809
 
 - 📫 How to reach me **ujwaldethe518@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ibwA_1fDzuvC4A4JC2PzMVfOnMkDiDwc/view?usp=sharing](https://drive.google.com/file/d/1ibwA_1fDzuvC4A4JC2PzMVfOnMkDiDwc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ibwA_1fDzuvC4A4JC2PzMVfOnMkDiDwc/view?usp=sharing](https://bit.ly/3CyHsTm)
 
 - ⚡ Fun fact **I Am Lazyyyyy Coder.**
 
