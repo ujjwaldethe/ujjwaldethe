@@ -5,7 +5,7 @@ cod![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c06809
 
 
 <h3 align="center">A passionate java developer from India</h3>
-<img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/ujjwaldethe/ujjwaldethe/f97c2e325ae77615a50fb689eb84593f79407ba7/.github/workflows/coding.gif">
+<img align="right" alt="Coding" width="50%" src="https://raw.githubusercontent.com/ujjwaldethe/ujjwaldethe/f97c2e325ae77615a50fb689eb84593f79407ba7/.github/workflows/coding.gif">
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=ujjwaldethe&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwaldethe" />
