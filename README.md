@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ujjwaldethe/ujjwaldethe/refs/heads/main/.github/workflows/api.gif" alt="MasterHead" height="300" width="600" />
+<img src="https://raw.githubusercontent.com/ujjwaldethe/ujjwaldethe/refs/heads/main/.github/workflows/api.gif" alt="MasterHead" height="300" width="100%" />
 
 
 <h1 align="center">
