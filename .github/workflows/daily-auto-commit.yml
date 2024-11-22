@@ -22,5 +22,5 @@ jobs:
           git config --global user.name "ujjwaldethe"
           git config --global user.email "ujwaldethe518@gmail.com"
           git add .
-          git commit -m "Daily auto-commit: $(date)"
+          git commit -m "Daily Commit: $(date)"
           git push
