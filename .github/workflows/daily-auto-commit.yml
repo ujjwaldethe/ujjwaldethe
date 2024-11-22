@@ -19,7 +19,7 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "Ujjwal Dethe"
+          git config --global user.name "ujjwaldethe"
           git config --global user.email "ujwaldethe518@gmail.com"
           git add .
           git commit -m "Daily auto-commit: $(date)"
