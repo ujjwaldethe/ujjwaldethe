@@ -50,7 +50,7 @@
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaldethe&theme=dark" alt="ujjwaldethe"  />
   <br/>
-  <img width="390" src="[![GitHub Streak](https://github-readme-streak-stats-alpha-six.vercel.app?user=ujjwaldethe&theme=dark)](https://git.io/streak-stats)" alt="ujjwaldethe" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en&theme=dark" alt="ujjwaldethe" />
   <br/>
   <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact&theme=dark" alt="ujjwaldethe" />
 </div>
