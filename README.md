@@ -12,8 +12,12 @@
     <img src="https://komarev.com/ghpvc/?username=ujjwaldethe&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwaldethe" />
 </p>
 
+<p align="left"> 
+  <a href="https://linkedin.com/in/ujjwal-dethe-64a59a21a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="Ujjwal Dethe LinkedIn Profile" />
+  </a> 
+</p>
 
-<p align="left"> <a href="https://linkedin.com/in/ujjwal-dethe-64a59a21a" target="_blank"><img src="https://img.shields.io/twitter/follow/ujjwal_dethe_?logo=twitter&style=for-the-badge" alt="ujjwal_dethe_" /></a> </p>
 
 - 🔭 I’m currently working on **Real Time Collaborative Code Editor**
 
