@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ujwaldethe518@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3CyHsTm](https://bit.ly/3CyHsTm)
+- 📄 Know about my experiences [https://bit.ly/40S2s1i](https://bit.ly/40S2s1i)
 
 - ⚡ Fun fact **I Am Lazyyyyy Coder.**
 
