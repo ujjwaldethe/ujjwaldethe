@@ -30,6 +30,15 @@
 - ⚡ Fun fact **I Am Lazyyyyy Coder.**
 
 <h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sahilatahar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilatahar)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19264249/sahilatahar)
+[![Link Tree](https://img.shields.io/badge/linktree-43e660?logo=linktree&logoColor=white)](https://linktr.ee/sahilatahar)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sahilatahar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahilatahar)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sahilatahar) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.com/sahilatahar) 
 <p align="left">
   <a href="https://twitter.com/ujjwal_dethe_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwal_dethe_" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ujjwal-dethe-64a59a21a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-dethe-64a59a21a" height="30" width="40" /></a>
