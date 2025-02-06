@@ -45,7 +45,7 @@
 
 
 ## Languages and Tools:
-
+#Frontend: 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-5C4B51?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -79,6 +79,18 @@
   </a>
 </p>
 
+#Backend:
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  </a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JSON Web Tokens"/>
+  </a>
+</p>
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats-alpha-six.vercel.app?user=ujjwaldethe&theme=dark" alt="ujjwaldethe"  />
