@@ -41,7 +41,6 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/cry_dell_57) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ujwaldethe518) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://www.leetcode.com/ujjwaldethe)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ujjwaldethe518@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
