@@ -12,9 +12,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Make Changes (Optional)
+      - name: Clear previous data and Add new data
         run: |
-          # Add a timestamp or any other changes you want to make
+          # Clear the contents of daily-log.txt before adding new data
+          > daily-log.txt
           echo "Updated on $(date)" >> daily-log.txt
 
       - name: Commit and Push Changes
