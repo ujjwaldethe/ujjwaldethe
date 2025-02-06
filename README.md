@@ -30,7 +30,9 @@
 - ⚡ Fun fact **I Am Lazyyyyy Coder.**
 
 ## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ujjwaldethe518@gmail.com)
+<a href="mailto:ujjwaldethe518@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 <h3 align="left">Connect with me:</h3>
 
