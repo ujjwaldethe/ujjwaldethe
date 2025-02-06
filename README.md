@@ -38,15 +38,16 @@
 
 
 <p align="left">
-  <a href="https://twitter.com/ujjwal_dethe_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwal_dethe_" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ujjwal-dethe-64a59a21a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-dethe-64a59a21a" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/15903226/ujwal-dethe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ujwal-dethe" height="30" width="40" /></a>
-  <a href="https://kaggle.com/ujjwaldethe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ujjwaldethe" height="30" width="40" /></a>
-  <a href="https://instagram.com/krishna_dethe__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna_dethe__" height="30" width="40" /></a>
-  <a href="https://youtube.com/@ujjwaldethe6537?si=OqorRv4auV3Ok9Ac" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ujjwaldethe6537" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/cry_dell_57" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cry_dell_57" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/ujwaldethe518" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ujwaldethe518" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/ujjwaldethe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwaldethe" height="30" width="40" /></a>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ujjwal_dethe_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-dethe-64a59a21a) 
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15903226/ujwal-dethe) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/ujjwaldethe) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/krishna_dethe__) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@ujjwaldethe6537?si=OqorRv4auV3Ok9Ac) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/cry_dell_57) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ujwaldethe518) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://www.leetcode.com/ujjwaldethe)
+
 </p>
 
 
