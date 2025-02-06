@@ -2,8 +2,7 @@ name: Daily Auto Commit
 
 on:
   schedule:
-    - cron: '* * * * *' # Runs daily at 7:32 PM IST (2:02 PM UTC)
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '51 4 * * *' # Runs daily at 10:00 AM IST
 
 jobs:
   auto-commit:
@@ -13,10 +12,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Clear previous data and Add new data
+      - name: Make Changes (Optional)
         run: |
-          # Clear the contents of daily-log.txt before adding new data
-          > daily-log.txt
+          # Add a timestamp or any other changes you want to make
           echo "Updated on $(date)" >> daily-log.txt
 
       - name: Commit and Push Changes
