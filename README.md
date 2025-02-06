@@ -106,6 +106,51 @@
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier"/>
   </a>
 </p>
+#Tools:
+<p align="left">
+  <b><img src="https://img.shields.io/badge/Tools-000000?style=for-the-badge&logo=tools&logoColor=white" alt="Tools"/> </b>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  </a>
+  <a href="https://prettier.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier"/>
+  </a>
+</p>
+#Deployment:
+<p align="left">
+  <b><img src="https://img.shields.io/badge/Deployment-000000?style=for-the-badge&logo=deployment&logoColor=white" alt="Deployment"/> </b>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  </a>
+  <a href="https://pages.github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  </a>
+</p>
+#Others:
+<p align="left">
+  <b><img src="https://img.shields.io/badge/Others-000000?style=for-the-badge&logo=others&logoColor=white" alt="Others"/> </b>
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+  </a>
+  <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Firefox"/>
+  </a>
+  <a href="https://www.google.com/chrome/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome"/>
+  </a>
+  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  </a>
+</p>
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats-alpha-six.vercel.app?user=ujjwaldethe&theme=dark" alt="ujjwaldethe"  />
