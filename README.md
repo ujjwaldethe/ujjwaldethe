@@ -28,7 +28,8 @@
 - 📄 Know about my experiences [https://bit.ly/40S2s1i](https://bit.ly/40S2s1i)
 
 - ⚡ Fun fact **I Am Lazyyyyy Coder.**
-- ## 🌐 Socials:
+
+## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sahilatahar@gmail.com)
 <h3 align="left">Connect with me:</h3>
 
