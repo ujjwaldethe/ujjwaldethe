@@ -49,7 +49,7 @@
 </p>
 
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=ujjwaldethe&theme=dark" alt="ujjwaldethe"  />
+  <img width="390" src="https://github-readme-streak-stats-wjz5.vercel.app?user=ujjwaldethe&theme=dark" alt="ujjwaldethe"  />
   <br/>
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en&theme=dark" alt="ujjwaldethe" />
   <br/>
