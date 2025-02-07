@@ -12,9 +12,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Make Changes (Optional)
+      - name: Clear and Update .txt Files
         run: |
-          # Add a timestamp or any other changes you want to make
+          # Clear contents of all .txt files in the repository
+          find . -name "*.txt" -type f -exec sh -c '> "$1"' _ {} \;
+
+          # Add a new timestamp to daily-log.txt
           echo "Updated on $(date)" >> daily-log.txt
 
       - name: Commit and Push Changes
@@ -22,5 +25,5 @@ jobs:
           git config --global user.name "ujjwaldethe"
           git config --global user.email "ujwaldethe518@gmail.com"
           git add .
-          git commit -m "$(date)"
+          git commit -m "Auto-updated on $(date)"
           git push
