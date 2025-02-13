@@ -25,5 +25,5 @@ jobs:
           git config --global user.name "ujjwaldethe"
           git config --global user.email "ujwaldethe518@gmail.com"
           git add .
-          git commit -m "Auto-updated on $(date)"
+          git commit -m "$(date)"
           git push
