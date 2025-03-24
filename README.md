@@ -55,7 +55,6 @@
   <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact&theme=dark" alt="ujjwaldethe" />
 </div>
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 <div align="center">
     <img src="https://github.com/ujjwaldethe/ujjwaldethe/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
