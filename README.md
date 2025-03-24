@@ -13,7 +13,7 @@
 </p>
 
 <p align="left"> <a href="https://linkedin.com/in/ujjwal-dethe-64a59a21a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="ujjwal_dethe_" /></a> </p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
 
 - 🔭 I’m currently working on **Real Time Collaborative Code Editor**
 
