@@ -3,6 +3,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ujjwal+Dethe!;" />
+      <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </h1>
 
 <h3 align="center">A passionate java developer from India</h3>
