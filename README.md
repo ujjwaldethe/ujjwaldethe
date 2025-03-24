@@ -30,7 +30,7 @@
 - ⚡ Fun fact **I Am Lazyyyyy Coder.**
 
 ## 🌐 Socials:
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ujjwaldethe518@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ujjwal_dethe_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-dethe-64a59a21a) 
