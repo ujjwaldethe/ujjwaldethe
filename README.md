@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Real Time Collaborative Code Editor**
 
-- 🌱 I’m currently learning **Java, Spring,Springboot, Microservices**
+- 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking for help with **Real Time Collaborative Code Editor**
 
