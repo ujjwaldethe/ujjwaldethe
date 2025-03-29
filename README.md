@@ -28,6 +28,8 @@
 
 - 📄 Know about my experiences [https://bit.ly/40S2s1i](https://bit.ly/40S2s1i)
 
+- 🎯 My goal is to become a skilled Java full-stack developer.
+
  
 
  ## 🌐 Socials:
