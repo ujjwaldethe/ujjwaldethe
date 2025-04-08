@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **ujwaldethe518@gmail.com**
 
-- 🌐 Check out my portfolio: ujjwaldethe.github.io
+- 🌐 Check out my portfolio: https://ujjwaldethe.github.io/portfolio/
 
 - 📄 Know about my experiences [https://bit.ly/40S2s1i](https://bit.ly/40S2s1i)
 
