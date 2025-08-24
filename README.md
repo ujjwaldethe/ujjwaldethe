@@ -52,14 +52,43 @@
 </p>
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-wjz5.vercel.app?user=ujjwaldethe&theme=dark" alt="ujjwaldethe"  />
+
+  <!-- 🔥 Streak Stats -->
+  <picture>
+    <source srcset="https://github-readme-streak-stats-wjz5.vercel.app?user=ujjwaldethe&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats-wjz5.vercel.app?user=ujjwaldethe&theme=light" media="(prefers-color-scheme: light)" />
+    <img width="390" src="https://github-readme-streak-stats-wjz5.vercel.app?user=ujjwaldethe&theme=light" alt="streak stats" />
+  </picture>
+
   <br/>
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en&theme=dark" alt="ujjwaldethe" />
+
+  <!-- 🔥 GitHub Stats -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en&theme=light" media="(prefers-color-scheme: light)" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en&theme=light" alt="stats" />
+  </picture>
+
   <br/>
-  <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact&theme=dark" alt="ujjwaldethe" />
+
+  <!-- 🔥 Top Languages -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact&theme=light" media="(prefers-color-scheme: light)" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaldethe&show_icons=true&locale=en&layout=compact&theme=light" alt="top langs" />
+  </picture>
+
 </div>
-<br>
+
+<br/>
+
+<!-- 🔥 Snake -->
 <div align="center">
-    <img src="https://github.com/ujjwaldethe/ujjwaldethe/blob/output/github-snake-dark.svg" alt="snake gif">
+  <picture>
+    <source srcset="https://github.com/ujjwaldethe/ujjwaldethe/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github.com/ujjwaldethe/ujjwaldethe/blob/output/github-snake.svg" media="(prefers-color-scheme: light)" />
+    <img src="https://github.com/ujjwaldethe/ujjwaldethe/blob/output/github-snake.svg" alt="snake gif" />
+  </picture>
 </div>
+
 
