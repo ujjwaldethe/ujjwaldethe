@@ -66,7 +66,7 @@
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en&theme=light" media="(prefers-color-scheme: light)" />
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=ujjwaldethe&show_icons=true&locale=en&theme=light" alt="stats" />
+    <img width="390" src="https://streak-stats.demolab.com/?user=ujjwaldethe&theme=dark" alt="stats" />
   </picture>
 
   <br/>
